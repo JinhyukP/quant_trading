@@ -30,3 +30,5 @@ if __name__=="__main__":
         time_wait = 3
         print(f'Waiting for {time_wait} seconds')
         sleep(time_wait)
+
+# [ref] https://youtu.be/XVv6mJpFOb0
