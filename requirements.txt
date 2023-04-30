@@ -1,4 +1,7 @@
 #python 3.6
+numpy>=1.19
+pandas
+matplotlib
 python-telegram-bot
 requests
 bs4
